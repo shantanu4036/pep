@@ -1,5 +1,6 @@
 body{
     text-align: center;
+     background-color:lightpink;
 }
 button{
     background-color:darkgreen;
@@ -8,6 +9,7 @@ button{
     font-weight: bold;
     width: 100px;
     border-radius: 5px;
+  
 }
 
 
